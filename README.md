@@ -38,3 +38,4 @@ Developers can browse open bounties, sign up on the website, claim a GitHub issu
 
 Bounties are paid only after the work is approved and the pull request is merged.
 
+# WarpSpeed Improvements
